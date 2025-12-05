@@ -8,10 +8,10 @@ Each solution is designed to be clear and concise, focusing on demonstrating eff
 
 Each problem has its own dedicated directory, named after the problem (e.g., `VectorAddition/`). Inside each problem directory, you will typically find the following files:
 
-*   `challenge.txt`: The original problem description or challenge statement.
-*   `solution.cu`: The CUDA C++ source code implementing the solution.
-*   `explanation_en.md`: A detailed explanation of the CUDA concepts and implementation choices, written in English.
-*   `explanation_cn.md`: A detailed explanation of the CUDA concepts and implementation choices, written in Chinese.
+* `challenge.txt`: The original problem description or challenge statement.
+* `solution.cu`: The CUDA C++ source code implementing the solution.
+* `explanation_en.md`: A detailed explanation of the CUDA concepts and implementation choices, written in English.
+* `explanation_cn.md`: A detailed explanation of the CUDA concepts and implementation choices, written in Chinese.
 
 ## Solutions
 
